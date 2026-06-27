@@ -1,10 +1,10 @@
 {
   "version": "v0.1.0",
   "notes": "Version inicial",
-  "pub_date": "2026-06-27T14:29:41.361Z",
+  "pub_date": "2026-06-27T14:41:24.052Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVkorR0N0TythaHp0ODhMa0F0TzRieG4wR2RQUFJOeVdCQ3FsQkRCdFVRNjhiVHZvL21teWxSQnA5NTBQNWl0bUx2MlM3eS9TcUlLVjRWQUxrQlBTWE5wR0p0dWgwT0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTcwNTgxCWZpbGU6VGhlIEJyZWFkIE9yZ2FuaXplcl8wLjEuMF94NjQtc2V0dXAuZXhlCksvOUJ5N2lkUmk1S1FhOW9zODJnczJLMERPK0lnaHpTTkZFTXJFNHp1em9xMDRzMi9ldUxMQWV1TUZlTG5pRkpxM001b1Q4ZGRTOUdMY3ZXUjJhbkRnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVkorR0N0TythaHdmZW5jTEFGM1FxV2ZOR0MxdXVoczQyNE1VK0R4RUxXcUtwV2EyVEZrdFR3dkhRNjJtMmFzZ2UvQUlZVkZ3T05SVlY0Uk8rczNjcDVISmx5L2ZFRVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTcxMjgzCWZpbGU6VGhlIEJyZWFkIE9yZ2FuaXplcl8wLjEuMF94NjQtc2V0dXAuZXhlCkFYZWVUNkx1OWJ2TmV5Ri9qRDEyczNXa1JsMUhRRlJhRWN4MEJCQjV2enpCcURVNE1DRG9CNU1HUVdkVkkyeW5TN09rdHFJaW02Y0VyTFZRdUVNUUNRPT0K",
       "url": "https://github.com/mherreraqh/the-bread-organizer-releases/releases/download/v0.1.0/The Bread Organizer_0.1.0_x64-setup.exe"
     }
   }
