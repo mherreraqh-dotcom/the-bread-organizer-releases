@@ -1,0 +1,11 @@
+{
+  "version": "v0.1.0",
+  "notes": "Version inicial",
+  "pub_date": "2026-06-27T13:56:35.224Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVkorR0N0TythaDRmb00rVmh4dWxSNTB6RlBxTk00ckhsM0NENmFpRytCc25PalNraGpPTFpmNlBubE1HcjgyVTlYOUpCTmlMWGZxbkNEVG9sbEM1ZUo2N2MzTnVleEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTY4NTk1CWZpbGU6VGhlIEJyZWFkIE9yZ2FuaXplcl8wLjEuMF94NjQtc2V0dXAuZXhlCmZoVkVYUGsxQzJ2emQva0RQRDY5RUxjcjhCUlh6SnYxeTN4YlpmYW1EaTliaXNES0ZSaXNqOHRjaGJULzZFZkJkc0NUdWU4ZjRmQ3dkd3htSVFqaUN3PT0K",
+      "url": "https://github.com/mherreraqh/the-bread-organizer-releases/releases/download/v0.1.0/The Bread Organizer_0.1.0_x64-setup.exe"
+    }
+  }
+}
